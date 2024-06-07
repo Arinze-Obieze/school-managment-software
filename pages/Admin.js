@@ -1,4 +1,3 @@
-// pages/admin.js
 import Layout from "@/components/Admin/layout";
 import Barchart from "@/components/BarChart";
 import Breadcrumb from "@/components/Breadcrumb";
